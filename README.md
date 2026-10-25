@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Hi there, I'm Ruslan Baatyrbekov 👋</h1>
   <h3>Full-Stack Software Engineer | Laravel Backend | IoT & Maker Enthusiast</h3>
-  <p>📍 Offenbach am Main, Germany</p>
+  <p>📍 Frankfurt am Main, Germany</p>
   
   <p>
     <img src="https://img.shields.io/badge/Backend-PHP%20%7C%20Laravel%2011-FF2D20?style=flat-square&logo=laravel" alt="Laravel"/>
