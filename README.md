@@ -18,7 +18,7 @@ I am a software engineer with a deep focus on the PHP/Laravel ecosystem and Vue.
 
 * 🚀 **Currently working on:** A Job Tracker system with Gemini API integration and an ESP32 smart alarm clock with Deutsche Bahn timetable integration[cite: 5].
 * 🛠 **Current technical focus:** Laravel WebSockets, Filament, Docker, and clean architecture.
-* 🎓 **Achievements:** Master's degree in Management in Technical Systems, Cisco "Introduction to Modern AI" certification, and Maker Faire Hannover 2026 attendee.
+* 🎓 **Achievements:** Master's degree in Management in Technical Systems, Cisco "Introduction to Modern AI" certification.
 * 🚲 **Off-screen:** Cycling, retro Mercedes-Benz enthusiast, and building local-first smart home infrastructure[cite: 5].
 
 ---
