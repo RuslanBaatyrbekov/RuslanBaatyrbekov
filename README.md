@@ -54,8 +54,8 @@ I specialize in clean architecture, relational database design, and integrating 
 **📊 GitHub Stats**
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RuslanBaatyrbekov&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="160" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuslanBaatyrbekov&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="160" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=RuslanBaatyrbekov&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&v=1" height="160" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuslanBaatyrbekov&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&v=1" height="160" alt="Top Languages"/>
 </div>
 
 <br/>
