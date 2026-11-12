@@ -1,10 +1,11 @@
 <div align="center">
   <h1>Hi, I'm Ruslan Baatyrbekov 👋</h1>
-  <h3>Backend Developer · PHP / Laravel · 3.5 years commercial experience</h3>
+  <h3>Backend Developer · PHP / Laravel · 3+ years commercial experience</h3>
   <p>📍 Frankfurt am Main / Offenbach, Germany</p>
   <p>
     <img src="https://img.shields.io/badge/Open_to-Backend_%2F_Full--Stack_roles-2ea44f?style=flat-square" alt="Open to work"/>
     <img src="https://img.shields.io/badge/Location-Rhein--Main_%7C_Remote-0D1117?style=flat-square" alt="Location"/>
+    <img src="https://img.shields.io/badge/Work_permit-Germany_%E2%9C%93-0D1117?style=flat-square" alt="Authorized to work in Germany"/>
   </p>
   <p>
     <a href="https://www.linkedin.com/in/ruslan-baatyrbekov/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -16,14 +17,16 @@
 
 ### 👨‍💻 About me
 
-Backend developer with **3.5 years of commercial experience** building web applications and business backends with **PHP / Laravel** and **Vue.js**.
+Backend developer with **3+ years of commercial experience** building web applications and business backends with **PHP / Laravel** and **Vue.js**.
 
 - 🧱 Clean architecture, relational database design (MySQL, PostgreSQL), queues and background jobs
 - 🔌 Integrations: payment gateways & webhooks, 1C ERP, REST APIs, Telegram bots, LLMs (Google Gemini)
 - 🐳 Docker-based environments, CI with GitHub Actions, automated tests (PHPUnit)
 - 🔧 Bonus: embedded side of IoT — ESP32 / C++ devices talking to my own backends
 
-🎓 Master's degree in Automation and Management in Technical Systems (Kyrgyz State Technical University)
+🎓 MSc in Automation and Control in Technical Systems — degree recognised in Germany (Anabin H+)
+
+🗣 **Languages:** Russian (native) · English (B1) · German (B1, certificate exam in December 2026)
 
 ---
 
