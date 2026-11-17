@@ -36,6 +36,7 @@ Backend developer with **3+ years of commercial experience** building web applic
 |---|---|---|
 | **[job-tracker](https://github.com/RuslanBaatyrbekov/job-tracker)** | Self-hosted job-search assistant: reads recruiter emails via IMAP, keeps the application funnel up to date, scores new vacancies with Gemini AI, follow-up reminders, Telegram bot | Laravel 13, Filament v3, Queues, Docker, CI |
 | **[budget-bot](https://github.com/RuslanBaatyrbekov/budget-bot)** | Family budget tracker in Telegram: receipt OCR and natural-language expense input via Gemini, shared wallets, admin panel with charts | Laravel, Filament v3, Queues, Docker, PHPUnit, CI |
+| **[pulse-learning](https://github.com/RuslanBaatyrbekov/pulse-learning)** | Daily learning app with streaks, spaced review of mistakes and a live mentor dashboard; course content and progress protected by Postgres row level security | JavaScript, Supabase, PostgreSQL RLS, Realtime, CI |
 | **[Api-project](https://github.com/RuslanBaatyrbekov/Api-project)** | Payment service REST API with gateway simulation and asynchronous webhook processing | Laravel, Queues, REST |
 | **[ticket-crm](https://github.com/RuslanBaatyrbekov/ticket-crm)** | Support-ticket CRM with role-based admin panel, embeddable feedback widget and documented REST API | Laravel, Spatie Permission, Swagger |
 | **[esp32-smart-alarm](https://github.com/RuslanBaatyrbekov/esp32-smart-alarm)** | ESP32 smart alarm clock: web UI, OLED, MP3, sunrise simulation, vocabulary trainer | C++, ESP32 |
